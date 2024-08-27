@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omsharma29
-- 👀 I’m interested in coding mainly in JavaScript 
-- 🌱 I’m currently learning different JS frameworks and also learning full stack dev 
-- 💞️ I’m looking to collaborate on various opensource project 
+- 🌱 I’m currently learning different JS/TS frameworks and also learning full stack dev 
+- 💞️ I’m looking to collaborate on various opensource project and freelance projects
 - 📫 How to reach me email me on: theomsharma100@gmail.com
 - Instagram: [theomsharma](https://www.instagram.com/theomsharma)
 
